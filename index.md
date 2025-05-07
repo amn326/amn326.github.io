@@ -23,29 +23,19 @@ I am an awesome student at Lehigh, you should hire me!
 
 ---
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![Price Paths of High Legal Uncertainty Companies](images/output_7_0.png)
 
 ---
-
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 
 ***[Team Project: The Reddest Bulls — Forex Factor Regression Model](https://thereddestbulls.streamlit.app/)***
 
-
-[![Team project thumbnail](images/thereddestbulls.png)](Regression_practice)
+![Team project thumbnail](images/thereddestbulls.png)
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**Personal Project: Orderbook Visualizer for Cryptocurrency**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![XRP-USD](images/output.mp4)
 
 ---
 
