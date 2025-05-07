@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---  
+
 ## Assessing the Price Impact of Legal and Operational Uncertainty from SEC Filings
 
 ## Overview
