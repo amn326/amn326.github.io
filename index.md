@@ -35,7 +35,9 @@ I am an awesome student at Lehigh, you should hire me!
 
 _**Personal Project: Orderbook Visualizer for Cryptocurrency**_
 
-![XRP-USD](images/output.mp4)
+<video controls src="images/output.mp4" width="100%" style="border-radius:8px;">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
