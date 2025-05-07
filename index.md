@@ -16,10 +16,10 @@ I am an awesome student at Lehigh, you should hire me!
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
 ### 1. SEC‑Filing Sentiment & Price‑Impact Study
-
 ***[Assessing the Stock‑Price Impact of Legal and Operational Uncertainty](report.ipynb)***
 
-[![Heatmap thumbnail](images/heatmap_thumbnail.png)]
+[![Heatmap thumbnail](images/heatmap_thumbnail.png)](report.ipynb)
+
 
 ---
 
