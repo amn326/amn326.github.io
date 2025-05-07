@@ -8,7 +8,7 @@ I am an awesome student at Lehigh, you should hire me!
 
 <p style="text-align:center;">
   <!-- Replace with your head‑shot when ready -->
-  <img class="img-circle" src="images/profile_placeholder.png" width="45%" alt="Amal Nigam head‑shot"/>
+  <img class="img-circle" src="images/profile.jpg" width="45%" alt="Amal Nigam head‑shot"/>
 </p>
 
 ## Portfolio
