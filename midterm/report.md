@@ -70,7 +70,8 @@ plt.show()
 
 
     
-![png](images/output_5_0.png)
+![png](../images/output_5_0.png)
+
     
 
 
@@ -111,7 +112,7 @@ plt.show()
 
 
     
-![png](images/output_7_0.png)
+![png](../images/output_7_0.png)
     
 
 
@@ -155,7 +156,7 @@ plot_top_company_cum_returns(returns_df, merged_df, 'operational_LM_litigious', 
 
 
     
-![png](images/output_11_0.png)
+![png](../images/output_11_0.png)
     
 
 
@@ -168,7 +169,7 @@ plot_top_company_cum_returns(returns_df, merged_df,'competition_LM_negative', n_
 
 
     
-![png](images/output_13_0.png)
+![png](../images/output_13_0.png)
     
 
 
@@ -181,7 +182,7 @@ plot_top_company_cum_returns(returns_df, merged_df, 'uncertainty_LM_litigious', 
 
 
     
-![png](images/output_15_0.png)
+![png](../images/output_15_0.png)
     
 
 
@@ -247,7 +248,7 @@ plot_post_filing_returns(top_deviators, returns_df)
 
 
     
-![png](images/output_20_0.png)
+![png](../images/output_20_0.png)
     
 
 
@@ -265,7 +266,7 @@ plot_post_filing_returns(min_deviators, returns_df)
 
 
     
-![png](images/output_22_1.png)
+![png](../images/output_22_1.png)
     
 
 

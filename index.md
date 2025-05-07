@@ -7,40 +7,35 @@ I am an awesome student at Lehigh, you should hire me!
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <!-- Replace with your head‑shot when ready -->
+  <img class="img-circle" src="images/profile_placeholder.png" width="45%" alt="Amal Nigam head‑shot"/>
 </p>
-
----
 
 ## Portfolio
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Assessing the Stock Price Impact of Legal and Operational Uncertainty from SEC Filings](report.ipynb)**_
+### 1. SEC‑Filing Sentiment & Price‑Impact Study
+***[Assessing the Stock‑Price Impact of Legal and Operational Uncertainty](report.ipynb)***
 
+![Heatmap thumbnail](images/output_7_0.png)
 
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![Price Paths of High Legal Uncertainty Companies](images/output_7_0.png)
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+***[Team Project: The Reddest Bulls — Forex Factor Regression Model](https://thereddestbulls.streamlit.app/)***
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![Team project thumbnail](images/thereddestbulls.png)
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**Personal Project: Orderbook Visualizer for Cryptocurrency**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![XRP-USD](images/output.mp4)
 
 ---
 
