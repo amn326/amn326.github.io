@@ -7,18 +7,21 @@ I am an awesome student at Lehigh, you should hire me!
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <!-- Replace with your head‑shot when ready -->
+  <img class="img-circle" src="images/profile_placeholder.png" width="45%" alt="Amal Nigam head‑shot"/>
 </p>
-
----
 
 ## Portfolio
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Assessing the Stock Price Impact of Legal and Operational Uncertainty from SEC Filings](report.ipynb)**_
+### 1. SEC‑Filing Sentiment & Price‑Impact Study
 
+***[Assessing the Stock‑Price Impact of Legal and Operational Uncertainty](report.ipynb)***
 
+[![Heatmap thumbnail](images/heatmap_thumbnail.png)]
+
+---
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -32,9 +35,11 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+***[Team Project: The Reddest Bulls — Forex Factor Regression Model](https://thereddestbulls.streamlit.app/)***
+
+
+[![Team project thumbnail](images/thereddestbulls.png)](Regression_practice)
 
 ---
 
