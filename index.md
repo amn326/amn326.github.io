@@ -50,9 +50,3 @@ Write what you want.
 Rowing, Piano, Trading 
 
 ---
-
-## Hobbies
-
-Rowing, piano, trading
-
----
