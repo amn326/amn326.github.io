@@ -15,7 +15,7 @@ I am a current Junior majoring in Finance at Lehigh University in Bethlehem, PA.
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-### 1. SEC‑Filing Sentiment & Price‑Impact Study
+_**SEC‑Filing Sentiment & Price‑Impact Study**_
 ***[Assessing the Stock‑Price Impact of Legal and Operational Uncertainty](midterm/report.md)***
 
 ![High Scoring](images/output_20_0.png)
@@ -23,7 +23,7 @@ I am a current Junior majoring in Finance at Lehigh University in Bethlehem, PA.
 
 ---
 
-![Price Paths of High Legal Uncertainty Companies](images/output_15_0.png)
+![Price Paths of Companies with High Legal Uncertainty](images/output_15_0.png)
 
 ---
 
