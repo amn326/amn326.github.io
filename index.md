@@ -33,14 +33,17 @@ I am an awesome student at Lehigh, you should hire me!
 
 ---
 
-_**Personal Project: Orderbook Visualizer for Cryptocurrency**_
+_**Personal Project: Orderbook Visualizer for Cryptocurrency built from Live Websocket data**_
 
 ![XRP-USD](images/output.gif)
 ---
 
 ## Career Objectives
 
+* **Equity Research – Fundamental & QUantitative Insight:** Turn raw data and company filings into clear stock calls, mixing DCF/comp‑sheet rigor with machine‑learning screens and alt‑data checks.
 Write what you want. 
+* **Equity & Debt Capital Markets:** Structure and execute IPOs, follow‑on equity offerings, and investment‑grade/high‑yield debt issuances that align with clients’ capital‑raising goals.
+* **Leveraged Finance & Sponsor Coverage:** Evaluate leveraged‑buyout structures, covenant packages, and credit profiles to support private‑equity sponsors and corporate borrowers.
 
 Sell yourself!
 
@@ -48,8 +51,6 @@ Sell yourself!
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Rowing, piano, trading
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
