@@ -18,12 +18,12 @@ I am an awesome student at Lehigh, you should hire me!
 ### 1. SEC‑Filing Sentiment & Price‑Impact Study
 ***[Assessing the Stock‑Price Impact of Legal and Operational Uncertainty](report.ipynb)***
 
-![Heatmap thumbnail](images/output_7_0.png)
+![High Scoring](images/output_20_0.png)
 
 
 ---
 
-![Price Paths of High Legal Uncertainty Companies](images/output_7_0.png)
+![Price Paths of High Legal Uncertainty Companies](images/output_15_0.png)
 
 ---
 
@@ -45,7 +45,9 @@ Write what you want.
 * **Equity & Debt Capital Markets:** Structure and execute IPOs, follow‑on equity offerings, and investment‑grade/high‑yield debt issuances that align with clients’ capital‑raising goals.
 * **Leveraged Finance & Sponsor Coverage:** Evaluate leveraged‑buyout structures, covenant packages, and credit profiles to support private‑equity sponsors and corporate borrowers.
 
-Sell yourself!
+## Hobbies
+
+Rowing, Piano, Trading 
 
 ---
 
