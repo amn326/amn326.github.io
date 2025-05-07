@@ -8,7 +8,7 @@ I am an awesome student at Lehigh, you should hire me!
 
 <p style="text-align:center;">
   <!-- Replace with your head‑shot when ready -->
-  <img class="img-circle" src="images/profile_placeholder.png" width="45%" alt="Amal Nigam head‑shot"/>
+  <img class="img-circle" src="images/profile.jpg" width="45%" alt="Amal Nigam head‑shot"/>
 </p>
 
 ## Portfolio
@@ -16,14 +16,14 @@ I am an awesome student at Lehigh, you should hire me!
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
 ### 1. SEC‑Filing Sentiment & Price‑Impact Study
-***[Assessing the Stock‑Price Impact of Legal and Operational Uncertainty](report.ipynb)***
+***[Assessing the Stock‑Price Impact of Legal and Operational Uncertainty](midterm/report.md)***
 
-![Heatmap thumbnail](images/output_7_0.png)
+![High Scoring](images/output_20_0.png)
 
 
 ---
 
-![Price Paths of High Legal Uncertainty Companies](images/output_7_0.png)
+![Price Paths of High Legal Uncertainty Companies](images/output_15_0.png)
 
 ---
 
@@ -33,26 +33,20 @@ I am an awesome student at Lehigh, you should hire me!
 
 ---
 
-_**Personal Project: Orderbook Visualizer for Cryptocurrency**_
+_**Personal Project: Orderbook Visualizer for Cryptocurrency built from Live Websocket data**_
 
-<video controls src="images/output.mp4" width="100%" style="border-radius:8px;">
-  Your browser does not support the video tag.
-</video>
-
+![XRP-USD](images/output.gif)
 ---
 
 ## Career Objectives
 
+* **Equity Research – Fundamental & QUantitative Insight:** Turn raw data and company filings into clear stock calls, mixing DCF/comp‑sheet rigor with machine‑learning screens and alt‑data checks.
 Write what you want. 
-
-Sell yourself!
-
----
+* **Equity & Debt Capital Markets:** Structure and execute IPOs, follow‑on equity offerings, and investment‑grade/high‑yield debt issuances that align with clients’ capital‑raising goals.
+* **Leveraged Finance & Sponsor Coverage:** Evaluate leveraged‑buyout structures, covenant packages, and credit profiles to support private‑equity sponsors and corporate borrowers.
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Rowing, Piano, Trading 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
