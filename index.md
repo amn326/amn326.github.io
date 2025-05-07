@@ -16,9 +16,9 @@ I am an awesome student at Lehigh, you should hire me!
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Assessing the Stock Price Impact of Legal and Operational Uncertainty from SEC Filings](report.ipynb)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
