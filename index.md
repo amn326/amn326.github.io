@@ -1,15 +1,15 @@
 
 ## About Me
 
-
 I am a current Junior majoring in Finance at Lehigh University in Bethlehem, PA.
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
   <!-- Replace with your head‑shot when ready -->
-  <img class="img-circle" src="images/profile.jpg" width="45%" alt="Amal Nigam head‑shot"/>
+  <img src="images/profile.jpg" alt="Amal Nigam head‑shot" style="width:45%; aspect-ratio:1/1; border-radius:50%; object-fit:cover; box-shadow:0 0 8px rgba(0,0,0,0.2);" />
 </p>
+
 
 ## Portfolio
 
