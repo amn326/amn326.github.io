@@ -1,8 +1,7 @@
 ## About Me
 
-What's up? hey\|you
 
-I am an awesome student at Lehigh, you should hire me!
+I am a current Junior majoring in Finance at Lehigh University in Bethlehem, PA.
 
 <!-- Upload your own photo and change the path -->
 
@@ -40,7 +39,7 @@ _**Personal Project: Orderbook Visualizer for Cryptocurrency built from Live Web
 
 ## Career Objectives
 
-* **Equity Research – Fundamental & QUantitative Insight:** Turn raw data and company filings into clear stock calls, mixing DCF/comp‑sheet rigor with machine‑learning screens and alt‑data checks.
+* **Equity Research – Fundamental & Quantitative Insight:** Turn raw data and company filings into clear stock calls, mixing DCF/comp‑sheet rigor with machine‑learning screens and alt‑data checks.
 Write what you want. 
 * **Equity & Debt Capital Markets:** Structure and execute IPOs, follow‑on equity offerings, and investment‑grade/high‑yield debt issuances that align with clients’ capital‑raising goals.
 * **Leveraged Finance & Sponsor Coverage:** Evaluate leveraged‑buyout structures, covenant packages, and credit profiles to support private‑equity sponsors and corporate borrowers.
